@@ -1,19 +1,18 @@
-# dnpicture
+**壁纸小程序**
 
-## Project setup
+### 安装
+
 ```
+
+
+# 进入项目目录
+cd dnpicture
+
+# 安装依赖
 npm install
+
+
+启动微信小程序
+npm run dev:mp-weixin
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
