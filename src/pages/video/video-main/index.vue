@@ -22,6 +22,7 @@ export default {
         urlobj(){
             // console.log("参数发生变化了",this.urlobj);
             this.videowp = []
+            this.hasMore = true
             this.getList()
         }
     },
